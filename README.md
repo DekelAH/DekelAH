@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dekel
 - 👀 I’m interested in C# development
-- 🌱 I’ve learned .NET Framework Full Stack Development
+- 🌱 I’ve learned .NET Framework Full Stack Development (Angular & ASP.NET)
 - 💞️ I’m looking for a Junior C# developer role
 - 📫 You can reach me via my linkedin account --> www.linkedin.com/in/dekel-aharon
 
