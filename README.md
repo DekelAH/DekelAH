@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dekel
 - 👀 I’m interested in C# development
 - 🌱 I’ve learned .NET Framework(ASP.NET) & Unity
-- 💞️ I’m looking for a Junior Unity developer role
+- 💞️ I’m looking for a Unity developer role
 - 📫 You can reach me via my linkedin account --> www.linkedin.com/in/dekel-aharon
 
 <!---
